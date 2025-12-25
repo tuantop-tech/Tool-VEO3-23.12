@@ -1,0 +1,7 @@
+{
+  "name": "Tool VEO3 Pro",
+  "description": "A production-grade logic engine for generating consistent First Frame, Last Frame, and VEO3 video prompts from a single script input.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
